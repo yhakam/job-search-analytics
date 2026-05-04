@@ -24,6 +24,7 @@ Le dashboard suit en temps réel :
 - Pipeline de recrutement (candidature → entretien → offre → refus)
 - Analyse par secteur, localisation et type de poste
 
+![Vue opérationnell](assets/Dashboard-1.png)
 ---
 
 ## Architecture
